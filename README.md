@@ -22,3 +22,5 @@ Papel ganha da pedra
 Este é um projeto desenvolvido junto com o professor Jamilton Damasceno na plataforma Udemy.
 
 ### 🎉 Resultado<hr>
+
+<img alt="gifappjokenpo" src="https://ik.imagekit.io/atnyozbx9v/JoKenP__8qUrmxXS3.gif">
