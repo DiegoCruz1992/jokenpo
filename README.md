@@ -7,7 +7,7 @@ JOKENPÔ 💡
 ### 👨🏻‍💻 TECNOLOGIAS 
 
 - Darth
-- Flutter
+- Flutter <hr>
 
 
 ### 💻 PROJETO
@@ -19,6 +19,6 @@ Tesoura ganha do papel
 Papel ganha da pedra 
 
 
-Este é um projeto desenvolvido junto com o professor Jamilton Damasceno na plataforma Udemy.
+Este é um projeto desenvolvido junto com o professor Jamilton Damasceno na plataforma Udemy.<hr>
 
 ### 🎉 Resultado
