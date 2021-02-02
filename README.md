@@ -1,16 +1,24 @@
-# jokenpo
+<h1 align="center">
+JOKENPÔ 💡
+</h1>
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/66fe19848b26f90cf13a99b798f742a9e7809b27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746563682d66726f6e742d2d656e642d627269676874677265656e"><img src="https://camo.githubusercontent.com/66fe19848b26f90cf13a99b798f742a9e7809b27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746563682d66726f6e742d2d656e642d627269676874677265656e" data-canonical-src="https://img.shields.io/badge/tech-front--end-brightgreen" style="max-width:100%;"></a>
 
-A new Flutter application.
+### 👨🏻‍💻 TECNOLOGIAS 
 
-## Getting Started
+- Darth
+- Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 💻 PROJETO
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O aplicativo foi desenvolvido para ilustrar o jogo Jokenpô os jogadores devem escolher uma das opções que aparece na tela, (pedra, papel ou tesoura). O jogo consiste em 3 opções "Você ganhou", "Você perdeu", e "Empate".
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pedra ganha da tesoura 
+Tesoura ganha do papel 
+Papel ganha da pedra 
+
+
+Este é um projeto desenvolvido junto com o professor Jamilton Damasceno na plataforma Udemy.
+
+### 🎉 Resultado
